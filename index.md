@@ -1,4 +1,4 @@
-### Personal-Web Public Subdomain
+### Public Subdomain Hosting
 Thanks for checking this out I may host anything you would like as long it's nice to others and obeys the rules.
 
 ## Rules
@@ -8,4 +8,4 @@ Thanks for checking this out I may host anything you would like as long it's nic
 4. No DMCA Law Breakers
 
 # Notices
-I wil probally not make a main index page for this since it's basically public hosting.
+I wil probally not make the index page for this pretty since it's basically not priority of the subdomain.
